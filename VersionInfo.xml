@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ملف تحديث PosUnt (AutoUpdater.NET).
+  عند كل إصدار جديد: ارفع <version> وضع رابط الحزمة في <url> (Asset من Release).
+  <version> يجب أن يكون أكبر من إصدار المستخدم ليظهر التحديث.
+-->
+<item>
+  <version>1.4.3.0</version>
+  <url>https://github.com/mohammedhayde/posunt-updates/releases/download/v1.4.3.0/PosUnt_Setup_1.4.3.0.exe</url>
+  <changelog>https://github.com/mohammedhayde/posunt-updates/releases</changelog>
+  <mandatory>true</mandatory>
+</item>
