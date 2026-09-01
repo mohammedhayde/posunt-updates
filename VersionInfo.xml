@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.4.7.1</version>
-  <url>https://github.com/mohammedhayde/posunt-updates/releases/download/v1.4.7.1/PosUnt_Setup_1.4.7.1.exe</url>
-  <checksum algorithm="SHA256">8A2D852F43BFAFF3D6D067DE349F94F5BE1B85E390556C5CCE63FC89C910E135</checksum>
-  <changelog>https://github.com/mohammedhayde/posunt-updates/releases/tag/v1.4.7.1</changelog>
+  <version>1.4.7.2</version>
+  <url>https://github.com/mohammedhayde/posunt-updates/releases/download/v1.4.7.2/PosUnt_Setup_1.4.7.2.exe</url>
+  <checksum algorithm="SHA256">27BC6310BFE298F732C5A36C36B3A933B1F3D9E04C916A2AB5467D6398E1C259</checksum>
+  <changelog>https://github.com/mohammedhayde/posunt-updates/releases/tag/v1.4.7.2</changelog>
   <mandatory>true</mandatory>
 </item>
