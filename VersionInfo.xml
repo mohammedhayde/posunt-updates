@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>1.4.9.0</version>
-  <url>https://github.com/mohammedhayde/posunt-updates/releases/download/v1.4.9.0/PosUnt_Update_1.4.9.0.exe</url>
+  <version>1.4.9.1</version>
+  <url>https://github.com/mohammedhayde/posunt-updates/releases/download/v1.4.9.1/PosUnt_Update_1.4.9.1.exe</url>
   <args>/SILENT /SUPPRESSMSGBOXES /NORESTART /SP- /APPDIR="%path%"</args>
-  <checksum algorithm="SHA256">5E4AA8B470BF1320758388CA82A122CE796B46D5DE9FB03EF18E959B2E002549</checksum>
-  <changelog>https://github.com/mohammedhayde/posunt-updates/releases/tag/v1.4.9.0</changelog>
+  <checksum algorithm="SHA256">860840E3988116B8A8F1F35C1A12D1FA35501D0B28B3F62A7742E41F84BDA7EB</checksum>
+  <changelog>https://github.com/mohammedhayde/posunt-updates/releases/tag/v1.4.9.1</changelog>
   <mandatory>true</mandatory>
 </item>
